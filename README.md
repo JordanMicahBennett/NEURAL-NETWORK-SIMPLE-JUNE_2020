@@ -1,14 +1,11 @@
 # NEURAL-NETWORK-SIMPLE-JUNE_2020
 Simple artificial neural network written from memory/scratch by Jordan in java
 
-# NEURAL-NETWORK-SIMPLE-JAN_2020
-
-
   Author: Jordan Micah Bennett
   
   Why?: This is practice writing of basic neural network from memory. ([I do this at the end of each year, or sometimes every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE), for practice of fundamentals.)
   
-  Date: January 27, 2020. (1 hour used)
+  Date: June 4, 2020. (1.5 hours used)
   
   The problem space is [X-OR inputs](https://en.wikipedia.org/wiki/XOR_gate). So the model does xor input prediction.
   
